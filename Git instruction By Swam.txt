@@ -7,3 +7,10 @@ git commit -m "first commit in this repo" \\ add coments to change
 git remote add origin https://github.com/swam2ua/firstWebDev.git  \\ add remote repository
 git push -u origin master \\ push files to remote repositiry
 
+\\ when need pull project
+
+git init \\ initial new folder
+git remote add origin https://github.com/swam2ua/firstWebDev.git \\ add adress remote ropository
+git pull origin master \\ send remote project in this folder
+
+
