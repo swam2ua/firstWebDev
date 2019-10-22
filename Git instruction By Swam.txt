@@ -1,0 +1,9 @@
+git init \\ initial new folder
+git config --global user.email swam7dp@gmail.com \\ add user mail
+git config --global user.naim Slavny Yevhenii \\ add user name
+git add * \\ add file to git
+git status \\ status now state git
+git commit -m "first commit in this repo" \\ add coments to change
+git remote add origin https://github.com/swam2ua/firstWebDev.git  \\ add remote repository
+git push -u origin master \\ push files to remote repositiry
+
